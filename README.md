@@ -1,6 +1,6 @@
 ### Using PlaSim for Climate Modelling
 
-The Planet Simulator (PlaSim) is a model of intermediate complexity which is based on the first law of thermodynamics, equations of state, continutiy, and water vapor. This software was used to run a one-year simulation of climate dynamics, and 4 variables of interest were chosen to represent in the below analysis. 
+The Planet Simulator (PlaSim) is a model of intermediate complexity which is based on the first law of thermodynamics, equations of state, continutiy, and water vapor. This model was used to run a one-year simulation of climate dynamics, and 4 variables of interest were chosen to represent in the below analysis. 
 <p>
   <img src="https://github.com/amethystaurora-robo/mini_project/blob/main/precip.png">
 </p>
